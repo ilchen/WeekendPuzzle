@@ -1,7 +1,7 @@
-From: Ilchenko, A.V. (Andrei)
+`From: Ilchenko, A.V. (Andrei)
 Sent: Friday, February 5, 2016 6:29 PM
 To: ML-OIB CH&PS CB-Portal; ML-OIB CH&PS Id&AccessMgt
-Subject: Combinatorial search programming puzzle for the weekend
+Subject: Combinatorial search programming puzzle for the weekend`
 
 Particularly interesting for those who pick up programming in Scala:
 

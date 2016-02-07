@@ -3,7 +3,7 @@ package puzzle
 /**
  * Created by Andrei Ilchenko on 7-2-16.
  */
-class Combi2(numbers: List[Double]) {
+class Combi(numbers: List[Double]) {
 
   trait  Expr {
     def evaluate(): Double
